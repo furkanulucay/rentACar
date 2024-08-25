@@ -1,6 +1,6 @@
 # RentACar
 
-Project Visual
+![Project Logo](https://github.com/Xersante/rentACar/blob/main/project-logo.jpeg)
 
 ## About Me
 
@@ -80,7 +80,7 @@ Scroll Blockchain testnet setup (or mainnet for production)
 
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/rentacar.git
+git clone https://github.com/Xersante/rentACar.git
 cd rentacar
 
 Step 2: Install Dependencies
