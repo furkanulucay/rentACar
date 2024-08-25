@@ -187,7 +187,6 @@ contract RentACar{
         cars[carId].fuelRate = 5;
 
         emit CarFilledFuel(carId, cars[carId].model, cars[carId].fuelRate);
-        leaveCar(carId);
 
     }
 }
