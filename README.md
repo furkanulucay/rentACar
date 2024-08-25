@@ -66,6 +66,10 @@ Monitor and maintain the system, ensuring updates and bug fixes as needed.
 
 Solidity and Scroll
 
+## Smart Contract Address
+
+0xac4d00BF3687231Bf66B3de2E4ddAEdb487378bf
+
 ## Setup Environment
 
 RentACar is a decentralized car rental platform built on the Scroll Blockchain. This project allows users to rent cars, manage rentals, and handle refunds through a secure and transparent smart contract.
