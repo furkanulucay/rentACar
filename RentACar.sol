@@ -145,6 +145,7 @@ contract RentACar{
     function leaveCar(uint256 carId) public onlyCustomer(carId){
         cars[carId].customer = address(0);
         cars[carId].isAvailable = true;
+        cars[carId].rentalPeriod = 0;
 
         emit CarLeft(carId, cars[carId].model);
     }
@@ -154,7 +155,8 @@ contract RentACar{
 
         cars[carId].customer = address(0);
         cars[carId].isAvailable = true;
-
+        cars[carId].rentalPeriod = 0;
+    
         emit CarLeft(carId, cars[carId].model);
     }
 
