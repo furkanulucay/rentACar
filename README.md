@@ -84,7 +84,7 @@ Scroll Blockchain testnet setup (or mainnet for production)
 
 Step 1: Clone the Repository
 
-git clone https://github.com/Xersante/rentACar.git
+git clone https://github.com/furkanulucay/rentACar.git
 cd rentacar
 
 Step 2: Install Dependencies
